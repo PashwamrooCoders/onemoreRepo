@@ -3,7 +3,11 @@
 </head>
 <body>
 <h2>move your body</h2>
-<h4>range your body</h4>
+<<<<<<< HEAD
+<h4>range</h4>
+=======
+<h4>range popo</h4>
+>>>>>>> fix
 <h5>sfdfg</h5>
 <span>hergegetge</span>
 </body>
